@@ -1,4 +1,4 @@
-FROM google/cloud-sdk:229.0.0-slim
+FROM google/cloud-sdk:240.0.0-slim
 
 RUN apt-get update
 RUN set -x && \
